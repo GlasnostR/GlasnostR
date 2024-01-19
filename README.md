@@ -1,9 +1,3 @@
-<p align=”center”>
-
-<img width=”200" height=”200" src=”https://c.tenor.com/sRsU2TUR5bgAAAAC/tenor.gif”my banner”>
-
-</p>
-
 <!--
 **GlasnostR/GlasnostR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
